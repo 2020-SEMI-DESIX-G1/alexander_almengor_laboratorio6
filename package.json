@@ -1,0 +1,23 @@
+{
+  "name": "alexander_almengor_laboratorio6",
+  "version": "1.0.0",
+  "description": "Laboratorio No.6",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2020-SEMI-DESIX-G1/alexander_almengor_laboratorio6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2020-SEMI-DESIX-G1/alexander_almengor_laboratorio6/issues"
+  },
+  "homepage": "https://github.com/2020-SEMI-DESIX-G1/alexander_almengor_laboratorio6#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

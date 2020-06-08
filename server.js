@@ -19,8 +19,8 @@ Permitiendo que la URL a continuación acceda a estos API End-points
 app.use(cors({origin: 'http://localhost:8100'}));
 
 /* Estas rutas '/students' URL tienen dos End-points: 
-→ localhost:3000/students/ (this returns array of objects)
-→ localhost:3000/students/:id (this returns single object)
+→ localhost:3000/students/ (Devuelve la lista de todos los estudiantes)
+→ localhost:3000/students/:id (Retorna un sólo estudiante identificado por su id)
 */
 app.use('/students', studentsRouter);
 

@@ -4,6 +4,7 @@
 #Comando para ejecutar con portforwarded docker run -p 3000:3000 imagename
 #Comando para ver contenedores docker container ls
 #Comando para detener contenedor docker stop containerid
+
 #Leer dependencias de Docker
 FROM node:latest
 
